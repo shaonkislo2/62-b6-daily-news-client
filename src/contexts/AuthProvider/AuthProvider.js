@@ -74,15 +74,3 @@ const AuthProvider = ({children}) => {
 
 export default AuthProvider;
 
-/* 
-config code 
-
-const firebaseConfig = {
-  apiKey: "AIzaSyBlRm4E9gwCQv06A_nfxn7jhSIsk9qeHI0",
-  authDomain: "b6-dragon-news.firebaseapp.com",
-  projectId: "b6-dragon-news",
-  storageBucket: "b6-dragon-news.appspot.com",
-  messagingSenderId: "737554103596",
-  appId: "1:737554103596:web:403e65e8fce56d9f2a4089"
-};
-*/
